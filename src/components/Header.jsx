@@ -96,10 +96,9 @@ const Header = () => {
                         <FiBell className="text-white text-xl cursor-pointer" />
                     </div>
                 </div>
-                <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
+                 <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
                     <img src="https://xsgames.co/randomusers/assets/avatars/female/67.jpg" />
                 </div>
-                {/* UZM RASM QOYISH KERE 100 */}
             </div>
         </div>
     );
